@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "utLusUqNs/SU+ABOZpFmnKjc/UpYGhGxJZ9V3QVdXiSmToU0/8sFhkrsXzKTS0ZI+nfQf11l522c5h9aF5NvGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Navid\\Documents\\My Files\\MaktabC#\\CW12-1\\new\\CW12-1_2\\CW12-1\\CW12-1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Navid\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
